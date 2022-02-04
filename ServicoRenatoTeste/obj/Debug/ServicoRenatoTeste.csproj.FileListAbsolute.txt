@@ -1,0 +1,7 @@
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ServicoRenatoTeste\ServicoRenatoTeste\bin\Debug\ServicoRenatoTeste.exe
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ServicoRenatoTeste\ServicoRenatoTeste\bin\Debug\ServicoRenatoTeste.pdb
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ServicoRenatoTeste\ServicoRenatoTeste\obj\Debug\ServicoRenatoTeste.ProjectInstaller.resources
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ServicoRenatoTeste\ServicoRenatoTeste\obj\Debug\ServicoRenatoTeste.csproj.GenerateResource.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ServicoRenatoTeste\ServicoRenatoTeste\obj\Debug\ServicoRenatoTeste.csproj.CoreCompileInputs.cache
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ServicoRenatoTeste\ServicoRenatoTeste\obj\Debug\ServicoRenatoTeste.exe
+C:\Users\renato.lacerda.IMAGINACTION\source\repos\ServicoRenatoTeste\ServicoRenatoTeste\obj\Debug\ServicoRenatoTeste.pdb
